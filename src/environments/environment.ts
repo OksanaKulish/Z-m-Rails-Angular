@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  api: "https://api.assessment.skillset.technology/a74fsg46d/posts",
+  mockApi: "http://localhost:3001/post"
 };
 
 /*
